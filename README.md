@@ -1,8 +1,8 @@
-# README #
+# ChromaDash v0.1 - Rhodium #
 
-# Introducing ChromaDash for Project CARS #
+# Introduction to Project CARS Integration #
 
-This project connects Project CARS to your Razer Chroma keyboard to show various information. It's a windows native command line application (written in C++ and a bit of plain old C) that will connect to Project CARS via Shared Memory and to your Razer Chroma keyboard via the Chroma SDK. The following information is displayed on the keyboard:
+This project connects Project CARS to your Razer Chroma keyboard to show various information. It's a Windows native command line application (written in C++ and a bit of plain old C) that will connect to Project CARS via Shared Memory and to your Razer Chroma keyboard via the Chroma SDK. The following information is displayed on the keyboard:
 
 - RPMs -> function key row
 - Tyre wear -> Q,W,A,S
