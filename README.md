@@ -1,5 +1,3 @@
-# ChromaDash
-Razer Chroma Application for displaying basic information
 # README #
 
 # Introducing ChromaDash for Project CARS #
@@ -55,4 +53,4 @@ Q: App doesn't throw any errors, but my keyboard does nothing.
 A: Enable Chroma Apps in Synapse by selecting your device and going into the 'Chroma Apps' tab.
 
 Q: I found an issue or have a feature request.
-A: Please register your issue or request on this Repository.
+A: Please register your issue or request here: https://github.com/NLxAROSA/ChromaDash/issues
